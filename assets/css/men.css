@@ -1,0 +1,41 @@
+/* =============   MAIN PRODUCT SECTION  =============== */
+.rating {
+    width: 1rem;
+}
+
+.check {
+    width: 1rem;
+}
+
+.location{
+    width: 1rem;
+}
+
+.card-text{
+    font-size: .7rem;
+    text-align: center;
+}
+
+.ratings_img{
+    width: 50px ;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+    background: lightblue;
+    background: radial-gradient(white 30%  lightblue 70%);
+}
+
+.fa-star,
+.fa-star-half{
+    color: yellowgreen;
+}
+
+.shopping-cart {
+    padding: 3% 0%;
+}
+
+.price-details h6{
+    padding: 6% 2%;
+}
